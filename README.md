@@ -22,7 +22,7 @@ Venho desenvolvendo projetos que combinam habilidades analíticas e atenção ao
 ## Projetos:
 Veja abaixo alguns artigos e projetos de Data Science Publicados:
 
-* **Olá, Python!:** https://bit.ly/2L2cMw
+* **Olá, Python!:** bit.ly/3HMWUIV
 
 
 ---
