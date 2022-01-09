@@ -5,14 +5,15 @@
 </p>
 
 # Jéssica Cunha
-<sub>*Data Scientist* - formada em Comércio Exterior e Química.</sub>
+<sub>*Data Scientist* em evolução - formada em Comércio Exterior e Química.</sub>
 
-Sou uma cientista de dados em contrução, com formação técnica em Comércio Exterior e Química. Combino habilidades analíticas, capacidade de trabalhar em equipe e atenção aos detalhes.
+Os problemas existem para serem solucionados. 
+Este é um Portfólio de problemas reais, solucionados por Machine Learning.
 
-Apaixonada por tecnologia e por tudo que elas podem proporcionar. Amo aprender coisas novas e estou sempre pronta para novos desafios.
+Venho desenvolvendo projetos que combinam habilidades analíticas e atenção aos detalhes. Sou apaixonada por tecnologia e por tudo que elas podem proporcionar.
 
 
-**Background in:** Python, Pandas
+**Background in:** Python, Pandas, Power BI
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/j%C3%A9ssica-cunha/)
@@ -21,7 +22,7 @@ Apaixonada por tecnologia e por tudo que elas podem proporcionar. Amo aprender c
 ## Projetos:
 Veja abaixo alguns artigos e projetos de Data Science Publicados:
 
-* **Curso de Python Gratuito:** https://bit.ly/2L2cMw
+* **Olá, Python!:** https://bit.ly/2L2cMw
 
 
 ---
