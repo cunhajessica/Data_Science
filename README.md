@@ -5,7 +5,7 @@
 </p>
 
 # Jéssica Cunha
-<sub>*Data Scientist* em evolução - formada em Comércio Exterior e Química.</sub>
+<sub>*Data Scientist* - formada em Comércio Exterior e Química.</sub>
 
 Os problemas existem para serem solucionados. 
 Este é um Portfólio de problemas reais, solucionados por Machine Learning.
@@ -13,10 +13,11 @@ Este é um Portfólio de problemas reais, solucionados por Machine Learning.
 Venho desenvolvendo projetos que combinam habilidades analíticas e atenção aos detalhes. Sou apaixonada por tecnologia e por tudo que elas podem proporcionar.
 
 
-**Background in:** Python, Pandas, Power BI
+**Skills:** Python
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/j%C3%A9ssica-cunha/)
+* [Medium](https://medium.com/@jessicacunha.jsc)
 
 
 ## Projetos:
