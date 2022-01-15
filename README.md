@@ -1,19 +1,18 @@
 
 
 <p align="left">
-  <img src="imagemedt2.jpg" >
+  <img src="imagem.jpg" >
 </p>
 
-# Jéssica Cunha
-<sub>*Data Scientist* - formada em Comércio Exterior e Química.</sub>
-
-Os problemas existem para serem solucionados. 
-Este é um Portfólio de problemas reais, solucionados por Machine Learning.
-
-Venho desenvolvendo projetos que combinam habilidades analíticas e atenção aos detalhes. Sou apaixonada por tecnologia e por tudo que elas podem proporcionar.
 
 
-**Skills:** Python
+Os problemas existem para serem solucionados e 
+este é um Portfólio de problemas reais, solucionados por Machine Learning.
+
+Venho desenvolvendo projetos que combinam habilidades analíticas e atenção aos detalhes. 
+Sou apaixonada por tecnologia e por tudo de bom que elas podem proporcionar.
+
+
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/j%C3%A9ssica-cunha/)
@@ -24,6 +23,9 @@ Venho desenvolvendo projetos que combinam habilidades analíticas e atenção ao
 Veja abaixo alguns artigos e projetos de Data Science Publicados:
 
 * **Olá, Python!:** http://bitly.ws/nwwj
+
+
+**Skills:** Python
 
 
 ---
