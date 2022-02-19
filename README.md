@@ -22,11 +22,12 @@ Sou apaixonada por tecnologia e por tudo de bom que elas podem proporcionar.
 ## Projetos:
 Veja abaixo alguns artigos e projetos de Data Science Publicados:
 
+* **Panorama do Covid-19 no Brasil e no Mundo:** http://bitly.ws/oBUC
 * **Análise dos Dados do Airbnb - Amsterdam:** http://bitly.ws/o4nd
 * **Olá, Python!:** http://bitly.ws/nwwj
 
 
-**Skills:** Python
+
 
 
 ---
