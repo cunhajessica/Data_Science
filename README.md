@@ -22,6 +22,7 @@ Sou apaixonada por tecnologia e por tudo de bom que elas podem proporcionar.
 ## Projetos:
 Veja abaixo alguns artigos e projetos de Data Science Publicados:
 
+* **Previsão de Churn para uma empresa de Telecomunicações:** http://bitly.ws/sIyx
 * **IA na Detecção de fraudes em cartões de crédito:** http://bitly.ws/rLY5
 * **Como fazer um Gráfico de linhas utilizando a biblioteca Matplotlib:** http://bitly.ws/qteJ
 * **Panorama do Covid-19 no Brasil e no Mundo:** http://bitly.ws/oBUC
