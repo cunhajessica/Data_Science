@@ -22,6 +22,9 @@ Sou apaixonada por tecnologia e por tudo de bom que elas podem proporcionar.
 ## Projetos:
 Veja abaixo alguns artigos e projetos de Data Science Publicados:
 
+* **Previsão de Demanda utilizando o Prophet:** http://bitly.ws/y2hd
+* **Inteligência artificial auxiliando na saúde de bebês, antes mesmo de nascer:** http://bitly.ws/y2h6
+* **Prevendo o valor do Seguro de vida:** http://bitly.ws/y2gR
 * **Previsão de Churn para uma empresa de Telecomunicações:** http://bitly.ws/sIyx
 * **IA na Detecção de fraudes em cartões de crédito:** http://bitly.ws/rLY5
 * **Como fazer um Gráfico de linhas utilizando a biblioteca Matplotlib:** http://bitly.ws/qteJ
